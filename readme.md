@@ -7,4 +7,5 @@ This repo contains all the challenges in the [JavaScript30](https://javascript30
 [02: JS and CSS Clock](https://tonynyagah.github.io/JavaScript30/02%20-%20JS%20and%20CSS%20Clock/)   
 [03: CSS Variables](https://tonynyagah.github.io/JavaScript30/03%20-%20CSS%20Variables/)  
 [04: Array Cardio Day 1](https://tonynyagah.github.io/JavaScript30/04%20-%20Array%20Cardio%20Day%201/)  
-[05: Flex Panel Gallery](https://tonynyagah.github.io/JavaScript30/05%20-%20Flex%20Panel%20Gallery/)
+[05: Flex Panel Gallery](https://tonynyagah.github.io/JavaScript30/05%20-%20Flex%20Panel%20Gallery/)  
+[06: Type Ahead](https://tonynyagah.github.io/JavaScript30/06%20-%20Type%20Ahead/)
