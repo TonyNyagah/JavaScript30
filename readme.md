@@ -11,6 +11,6 @@ This repo contains all the challenges in the [JavaScript30](https://javascript30
 [06: Type Ahead](https://tonynyagah.github.io/JavaScript30/06%20-%20Type%20Ahead/)  
 [07: Array Cardio Day 2](https://tonynyagah.github.io/JavaScript30/07%20-%20Array%20Cardio%20Day%202/)  
 [08: Fun with HTML5 Canvas](https://tonynyagah.github.io/JavaScript30/08%20-%20Fun%20with%20HTML5%20Canvas/)  
-[09: Dev Tools Domination](https://tonynyagah.github.io/JavaScript30/09%20-%20Dev%20Tools%20Domination/)
+[09: Dev Tools Domination](https://tonynyagah.github.io/JavaScript30/09%20-%20Dev%20Tools%20Domination/)  
 [10: Hold Shift and Check Checkboxes](https://tonynyagah.github.io/JavaScript30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/)  
 [11: Custom Video Player](https://tonynyagah.github.io/JavaScript30/11%20-%20Custom%20Video%20Player/)
