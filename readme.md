@@ -17,4 +17,5 @@ This repo contains all the challenges in the [JavaScript30](https://javascript30
 [12: Key Sequence Detection](https://tonynyagah.github.io/JavaScript30/12%20-%20Key%20Sequence%20Detection/)  
 [13: Slide in on Scroll](https://tonynyagah.github.io/JavaScript30/13%20-%20Slide%20in%20on%20Scroll/)  
 [14: JavaScript References vs Copying](https://tonynyagah.github.io/JavaScript30/14%20-%20JavaScript%20References%20VS%20Copying/)  
-[15: LocalStorage](https://tonynyagah.github.io/JavaScript30/15%20-%20LocalStorage/)
+[15: LocalStorage](https://tonynyagah.github.io/JavaScript30/15%20-%20LocalStorage/)  
+[16: Mouse Move Shadow](https://tonynyagah.github.io/JavaScript30/16%20-%20Mouse%20Move%20Shadow/)
